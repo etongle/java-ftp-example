@@ -1,0 +1,6 @@
+ftp:
+  username: rxliuli
+  host: localhost
+  password: 123456
+  sftp:
+    encoding: GBK
